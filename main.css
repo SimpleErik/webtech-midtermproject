@@ -3,3 +3,31 @@
 	width: 100%;
 	height: 400px;
 }
+h1 {
+	font-family: "Arial";
+}
+.mainnav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: hidden;
+   background-color: #add8e6;
+}
+.mainnav li{
+   float: left;
+}
+.mainnav li a{
+   display: block;
+   color: grey;
+   text-align: center;
+   padding: 14px 16px;
+   text-decoration: none;
+   font-family: "Arial";
+}
+.mainnav li a:hover {
+    background-color: #f8f8f8;
+}
+.Grace_n_Bre img {
+	padding-top: 15px;
+	float: left;
+}
